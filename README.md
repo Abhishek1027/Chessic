@@ -1,4 +1,6 @@
 # Chessic
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/8508afa1-63ee-4ec3-8364-3ef02216bf63" />
+
 # Chessic - Real-Time Multiplayer Chess Game
 
 Chessic is a dynamic, real-time multiplayer chess game that brings the classic chess experience to the web. It enables players to compete against each other in real-time with a simple, intuitive drag-and-drop interface. Built with modern web technologies, Chessic supports player roles (white/black), spectators, and seamless real-time gameplay.
